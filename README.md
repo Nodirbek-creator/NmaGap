@@ -3,7 +3,7 @@ This is WhatsApp's clone where I suffered with FCM and Firebase 😅
 The design of the app imitates the minimalism of the WhatsApp.
 This chat app enables users to talk with each other using only Google Account.
 
-[Some screenshots]
+Here are some screenshots
 Login page:
 ![login_auth](https://github.com/user-attachments/assets/2b3d42cb-a2d9-4fe8-b74a-5f125f2df44b)
 Home:
